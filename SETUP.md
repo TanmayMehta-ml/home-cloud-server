@@ -519,8 +519,8 @@ Cloudflare Tunnel reconnects automatically. No other changes needed.
 Recommended user quotas:
 ```
 tanmay.mehta:   300 GB
-ravi.mehta:     200 GB
-suchita.mehta:  200 GB
-shreya.mehta:   150 GB
+user.one:       200 GB
+user.two:       200 GB
+user.three:     150 GB
 Buffer:          30 GB
 ```
