@@ -118,9 +118,9 @@ nextcloud-aio-nextcloud (PHP-FPM)
 |---|---|---|
 | admin | System Admin | Unlimited |
 | tanmay.mehta | Personal Admin | Unlimited |
-| ravi.mehta | Family | 10 GB (POC) |
-| suchita.mehta | Family | 10 GB (POC) |
-| shreya.mehta | Family | 10 GB (POC) |
+| userone.mehta | Family | 10 GB |
+| usertwo.mehta | Family | 10 GB |
+| userthree.mehta | Family | 10 GB |
 
 ---
 
